@@ -1,11 +1,13 @@
-streamlit
 pandas
 numpy
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
 joblib
-xgboost
-lightgbm
+fastapi
+uvicorn
+# Desired optional libraries
 catboost
+lightgbm
+xgboost
 shap
